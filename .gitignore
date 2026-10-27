@@ -1,2 +1,3 @@
-build/**
+build/*/verilator/
+build/*/riscv_objs/
 sim/tests/benchmarks/coremark/src/**
